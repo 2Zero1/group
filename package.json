@@ -1,0 +1,19 @@
+{
+  "name": "group",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://2Zero1@github.com/2Zero1/group.git"
+  },
+  "author": "2Zero1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2Zero1/group/issues"
+  },
+  "homepage": "https://github.com/2Zero1/group#readme"
+}
