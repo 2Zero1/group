@@ -4,7 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "webpack serve",
+    "build": "webpack build",
+    "test:unit": "jest",
+    "coverage": "npm run test:unit -- --coverage",
+    "lint": "eslint --ext js,jsx ."
   },
   "repository": {
     "type": "git",
